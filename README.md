@@ -1,3 +1,3 @@
 ## PostGIS
 
-- [Five Fast and Replicable Spatial Tasks with PostGIS](http://rexdouglass.com/postgis/): Exemplos de combinação de camadas raster e vetoriais, por [Rex Douglas](http://rexdouglass.com).
+- [Cinco exemplos rápidos e replicáveis de tarefas usando Postgis](http://rexdouglass.com/postgis/), por [Rex Douglas](http://rexdouglass.com). *(em inglês)*
