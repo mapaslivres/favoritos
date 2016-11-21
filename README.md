@@ -7,7 +7,7 @@
   - [WikiOSM](https://wiki.openstreetmap.org/wiki/Vector_tiles)
   - [Mapbox](https://www.mapbox.com/vector-tiles/)
 - Artigos:  
-  - [Servindo *vector tiles*](http://www.paulnorman.ca/blog/2016/11/serving-vector-tiles), por Paul Norman
+  - [Servindo *vector tiles*](http://www.paulnorman.ca/blog/2016/11/serving-vector-tiles), por [Paul Norman](http://www.paulnorman.ca)
 
 
 ## PostGIS
