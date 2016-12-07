@@ -1,4 +1,9 @@
 
+# Mapas
+
+- [Criminalidade no Rio Grande do Sul](http://shiny.fee.tche.br/CrimeVis/) - feito no [Shiny](http://shiny.rstudio.com)
+
+# Tecnologias e Formatos
 
 ## Vector Tiles
 
@@ -13,3 +18,7 @@
 ## PostGIS
 
 - [Cinco tarefas espaciais rápidas e replicáveis usando PostGIS](http://rexdouglass.com/postgis/), por [Rex Douglas](http://rexdouglass.com). *(em inglês)*
+
+## R
+
+- [Shiny](http://shiny.rstudio.com) - framework web de visualização com suporte a mapas
